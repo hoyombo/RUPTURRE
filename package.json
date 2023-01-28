@@ -1,0 +1,16 @@
+{
+  "name": "rupture",
+  "version": "1.0.0",
+  "description": "Pull ruptures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hausman Oyombo",
+  "license": "ISC",
+  "dependencies": {
+    "keyboardjs": "^2.7.0",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^19.6.1"
+  }
+}

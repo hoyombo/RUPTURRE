@@ -1,0 +1,6 @@
+make sure you have node and puppeteer installed 
+
+to run : open terminal in directory and type node .\index.js
+
+index2.js : i was trying to upload the files on the ebm website to load the ruptures. so i guess you 
+can ignore that. at the bottom of the code though, you can see how to select the last two downloaded files (zone 5 and zone 6 excel)

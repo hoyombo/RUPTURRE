@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../bootstap trial"
+    },
+    {
+      "path": "../WED DEV BOOTCAMP/JAVASCRIPT/ASSIGNMENTS/Data Structures, Modern Operators and Strings"
+    },
+    {
+      "path": "../WED DEV BOOTCAMP/JAVASCRIPT/complete-javascript-course-master"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Data Structures, Modern Operators and Strings"
+  }
+}
